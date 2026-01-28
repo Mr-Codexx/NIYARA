@@ -1,0 +1,367 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "slug": "face-tissues",
+      "name": "Face Tissues",
+      "description": "Soft and gentle facial tissues for daily use",
+      "longDescription": "Our premium face tissues are made from 100% virgin pulp, ensuring maximum softness and strength. Each tissue is 3-ply for optimal absorbency and gentle on the skin. Perfect for everyday use at home, office, or while traveling.",
+      "price": 299,
+      "originalPrice": 349,
+      "category": "facial",
+      "features": [
+        "3-ply for extra strength",
+        "Hypoallergenic and dermatologically tested",
+        "Soft and gentle on skin",
+        "Biodegradable material",
+        "Packed in recyclable packaging"
+      ],
+      "specifications": {
+        "material": "100% Virgin Pulp",
+        "ply": "3-ply",
+        "dimensions": "21cm x 21cm",
+        "sheetsPerPack": "50 sheets",
+        "packsPerCarton": "12 packs",
+        "weight": "200g per pack"
+      },
+      "images": [
+        "https://www.premiertissues.com/images/facial-tissues/white.png",
+        "https://www.premiertissues.com/images/facial-tissues/blue.png",
+        "https://www.premiertissues.com/images/facial-tissues/green.png",
+        "https://www.premiertissues.com/images/facial-tissues/pink.png",
+        "https://www.premiertissues.com/images/facial-tissues/red.png"
+      ],
+      "thumbnail": "https://www.premiertissues.com/images/facial-tissues/single.svg",
+      "stock": 100,
+      "rating": 4.8,
+      "reviews": 124,
+      "tags": ["soft", "gentle", "hypoallergenic", "biodegradable"],
+      "relatedProducts": ["2", "4", "5"]
+    },
+    {
+      "id": "2",
+      "slug": "toilet-rolls",
+      "name": "Toilet Rolls",
+      "description": "Premium quality toilet rolls for maximum comfort",
+      "longDescription": "Experience superior quality with our toilet rolls made from sustainable sources. Each roll is designed to be septic-safe and dissolves quickly. The 2-ply construction provides both softness and durability, with perfect perforation for easy tearing.",
+      "price": 399,
+      "originalPrice": 449,
+      "category": "home",
+      "features": [
+        "Septic-safe and biodegradable",
+        "2-ply construction for comfort",
+        "Perfect perforation for easy tearing",
+        "Made from sustainable sources",
+        "Long-lasting rolls"
+      ],
+      "specifications": {
+        "material": "Bamboo & Wood Pulp Mix",
+        "ply": "2-ply",
+        "sheetsPerRoll": "250 sheets",
+        "rollsPerPack": "4 rolls",
+        "dimensions": "10cm x 10cm per sheet",
+        "weight": "180g per roll"
+      },
+      "images": [
+        "https://www.premiertissues.com/images/facial-tissues/black-gold.png",
+        "https://www.premiertissues.com/images/facial-tissues/silver.png",
+        "https://www.premiertissues.com/images/facial-tissues/white.png"
+      ],
+      "thumbnail": "https://www.premiertissues.com/images/facial-tissues/50-pulls.svg",
+      "stock": 80,
+      "rating": 4.7,
+      "reviews": 89,
+      "tags": ["septic-safe", "biodegradable", "sustainable", "comfort"],
+      "relatedProducts": ["1", "3", "7"]
+    },
+    {
+      "id": "3",
+      "slug": "kitchen-towel",
+      "name": "Kitchen Towel",
+      "description": "Highly absorbent kitchen towels for all cleaning needs",
+      "longDescription": "Our kitchen towels are super absorbent and strong enough to handle tough cleaning tasks. Made from high-quality cellulose fibers, they don't leave lint behind and are perfect for wiping countertops, cleaning spills, and drying dishes. Each sheet is embossed for better absorption.",
+      "price": 249,
+      "originalPrice": 299,
+      "category": "home",
+      "features": [
+        "Super absorbent - holds 10x its weight",
+        "Lint-free and strong",
+        "Embossed pattern for better grip",
+        "Perfect for tough cleaning tasks",
+        "Biodegradable and compostable"
+      ],
+      "specifications": {
+        "material": "Cellulose Fibers",
+        "ply": "2-ply",
+        "sheetsPerRoll": "70 sheets",
+        "dimensions": "24cm x 30cm",
+        "absorbency": "10x weight",
+        "weight": "150g per roll"
+      },
+      "images": [
+        "https://www.premiertissues.com/images/facial-tissues/blue.png",
+        "https://www.premiertissues.com/images/facial-tissues/green.png",
+        "https://www.premiertissues.com/images/facial-tissues/white.png"
+      ],
+      "thumbnail": "https://www.premiertissues.com/images/facial-tissues/100-pulls.svg",
+      "stock": 120,
+      "rating": 4.9,
+      "reviews": 156,
+      "tags": ["absorbent", "strong", "lint-free", "kitchen-essential"],
+      "relatedProducts": ["2", "6", "7"]
+    },
+    {
+      "id": "4",
+      "slug": "bamboo-face-tissue",
+      "name": "Bamboo Face Tissue",
+      "description": "Eco-friendly bamboo tissues for sensitive skin",
+      "longDescription": "Made from 100% bamboo fibers, these tissues are not only eco-friendly but also naturally antibacterial and hypoallergenic. Perfect for sensitive skin, they are softer and more sustainable than traditional tissues. Bamboo grows rapidly without pesticides, making this a greener choice.",
+      "price": 349,
+      "originalPrice": 399,
+      "category": "facial",
+      "features": [
+        "100% bamboo fibers",
+        "Naturally antibacterial",
+        "Hypoallergenic for sensitive skin",
+        "Softer than traditional tissues",
+        "Eco-friendly and sustainable"
+      ],
+      "specifications": {
+        "material": "100% Bamboo Fiber",
+        "ply": "2-ply",
+        "dimensions": "21cm x 21cm",
+        "sheetsPerPack": "50 sheets",
+        "packsPerCarton": "12 packs",
+        "weight": "180g per pack"
+      },
+      "images": [
+        "https://www.premiertissues.com/images/facial-tissues/green.png",
+        "https://www.premiertissues.com/images/facial-tissues/harvested.svg",
+        "https://www.premiertissues.com/images/facial-tissues/white.png"
+      ],
+      "thumbnail": "https://www.premiertissues.com/images/facial-tissues/recyclable.svg",
+      "stock": 60,
+      "rating": 4.9,
+      "reviews": 92,
+      "tags": ["bamboo", "eco-friendly", "sensitive-skin", "sustainable"],
+      "relatedProducts": ["1", "8", "10"]
+    },
+    {
+      "id": "5",
+      "slug": "napkins",
+      "name": "Napkins",
+      "description": "Quality paper napkins for dining and parties",
+      "longDescription": "Our premium paper napkins are perfect for any dining occasion. They are soft, absorbent, and come in a crisp white color that complements any table setting. The 2-ply construction ensures they hold up well during use without tearing easily.",
+      "price": 199,
+      "originalPrice": 249,
+      "category": "dining",
+      "features": [
+        "Soft and absorbent",
+        "2-ply construction",
+        "Perfect for parties and gatherings",
+        "Biodegradable material",
+        "Elegant white color"
+      ],
+      "specifications": {
+        "material": "Food-grade Paper",
+        "ply": "2-ply",
+        "dimensions": "33cm x 33cm",
+        "napkinsPerPack": "100 napkins",
+        "packsPerCarton": "10 packs",
+        "weight": "300g per pack"
+      },
+      "images": [
+        "https://www.premiertissues.com/images/facial-tissues/white.png",
+        "https://www.premiertissues.com/images/facial-tissues/pink.png",
+        "https://www.premiertissues.com/images/facial-tissues/blue.png"
+      ],
+      "thumbnail": "https://www.premiertissues.com/images/facial-tissues/multi-pack.svg",
+      "stock": 150,
+      "rating": 4.6,
+      "reviews": 78,
+      "tags": ["dining", "party", "absorbent", "tableware"],
+      "relatedProducts": ["1", "8", "6"]
+    },
+    {
+      "id": "6",
+      "slug": "aluminium-foil",
+      "name": "Aluminium Foil",
+      "description": "Food grade aluminium foil for cooking and storage",
+      "longDescription": "Our heavy-duty aluminium foil is perfect for cooking, baking, and food storage. It's heat resistant up to 450°F and provides an excellent barrier against moisture, light, and oxygen. The non-stick surface makes food release easy and cleanup simple.",
+      "price": 149,
+      "originalPrice": 179,
+      "category": "kitchen",
+      "features": [
+        "Heavy-duty for durability",
+        "Heat resistant up to 450°F",
+        "Non-stick surface",
+        "Excellent barrier properties",
+        "Food grade quality"
+      ],
+      "specifications": {
+        "material": "Food-grade Aluminium",
+        "thickness": "18 microns",
+        "length": "30 meters",
+        "width": "30cm",
+        "heatResistance": "Up to 450°F",
+        "weight": "200g per roll"
+      },
+      "images": [
+        "https://www.premiertissues.com/images/facial-tissues/silver.png",
+        "https://www.premiertissues.com/images/facial-tissues/black-silver.png",
+        "https://www.premiertissues.com/images/facial-tissues/white.png"
+      ],
+      "thumbnail": "https://www.premiertissues.com/images/facial-tissues/200-pulls.svg",
+      "stock": 200,
+      "rating": 4.7,
+      "reviews": 112,
+      "tags": ["cooking", "baking", "food-storage", "kitchen-essential"],
+      "relatedProducts": ["3", "7", "9"]
+    },
+    {
+      "id": "7",
+      "slug": "cling-film",
+      "name": "Cling Film",
+      "description": "Transparent cling film for food preservation",
+      "longDescription": "Our cling film provides an airtight seal to keep food fresh longer. It's crystal clear so you can easily identify contents, and it clings tightly to containers without sticking to itself. Perfect for covering bowls, wrapping sandwiches, and preserving leftovers.",
+      "price": 179,
+      "originalPrice": 199,
+      "category": "kitchen",
+      "features": [
+        "Airtight seal for freshness",
+        "Crystal clear transparency",
+        "Easy to use and tear",
+        "Clings tightly without adhesive",
+        "Food safe material"
+      ],
+      "specifications": {
+        "material": "Food-grade PVC",
+        "thickness": "11 microns",
+        "length": "30 meters",
+        "width": "30cm",
+        "transparency": "95%",
+        "weight": "180g per roll"
+      },
+      "images": [
+        "https://www.premiertissues.com/images/facial-tissues/white.png",
+        "https://www.premiertissues.com/images/facial-tissues/silver.png",
+        "https://www.premiertissues.com/images/facial-tissues/blue.png"
+      ],
+      "thumbnail": "https://www.premiertissues.com/images/facial-tissues/single.svg",
+      "stock": 180,
+      "rating": 4.5,
+      "reviews": 67,
+      "tags": ["food-preservation", "transparent", "airtight", "kitchen-essential"],
+      "relatedProducts": ["3", "6", "9"]
+    },
+    {
+      "id": "8",
+      "slug": "bamboo-napkins",
+      "name": "Bamboo Napkins",
+      "description": "Eco-friendly bamboo napkins for sustainable dining",
+      "longDescription": "Made from sustainable bamboo fibers, these napkins are not only environmentally friendly but also naturally strong and absorbent. They're perfect for eco-conscious households and businesses looking to reduce their environmental footprint without compromising on quality.",
+      "price": 299,
+      "originalPrice": 349,
+      "category": "dining",
+      "features": [
+        "Made from sustainable bamboo",
+        "Naturally antibacterial",
+        "High absorbency",
+        "Biodegradable and compostable",
+        "Soft yet durable"
+      ],
+      "specifications": {
+        "material": "100% Bamboo Fiber",
+        "ply": "2-ply",
+        "dimensions": "33cm x 33cm",
+        "napkinsPerPack": "80 napkins",
+        "packsPerCarton": "8 packs",
+        "weight": "280g per pack"
+      },
+      "images": [
+        "https://www.premiertissues.com/images/facial-tissues/green.png",
+        "https://www.premiertissues.com/images/facial-tissues/harvested.svg",
+        "https://www.premiertissues.com/images/facial-tissues/white.png"
+      ],
+      "thumbnail": "https://www.premiertissues.com/images/facial-tissues/recyclable.svg",
+      "stock": 90,
+      "rating": 4.8,
+      "reviews": 45,
+      "tags": ["bamboo", "eco-friendly", "sustainable", "dining"],
+      "relatedProducts": ["4", "5", "10"]
+    },
+    {
+      "id": "9",
+      "slug": "jumbo-rolls",
+      "name": "Jumbo Rolls",
+      "description": "Industrial size tissue rolls for commercial use",
+      "longDescription": "Our jumbo rolls are designed for high-volume commercial use in offices, restaurants, hotels, and institutions. They offer excellent value with reduced frequency of changeovers. Compatible with most standard dispensers and available with custom branding options.",
+      "price": 1299,
+      "originalPrice": 1499,
+      "category": "commercial",
+      "features": [
+        "High capacity for commercial use",
+        "Reduces changeover frequency",
+        "Compatible with standard dispensers",
+        "Cost-effective for high-volume use",
+        "Available with custom branding"
+      ],
+      "specifications": {
+        "material": "Virgin Pulp",
+        "ply": "2-ply",
+        "length": "450 meters",
+        "diameter": "30cm",
+        "sheets": "Approx. 2000 sheets",
+        "weight": "2.5kg per roll"
+      },
+      "images": [
+        "https://www.premiertissues.com/images/facial-tissues/black-gold.png",
+        "https://www.premiertissues.com/images/facial-tissues/silver.png",
+        "https://www.premiertissues.com/images/facial-tissues/white.png"
+      ],
+      "thumbnail": "https://www.premiertissues.com/images/facial-tissues/multi-pack.svg",
+      "stock": 40,
+      "rating": 4.9,
+      "reviews": 23,
+      "tags": ["commercial", "bulk", "cost-effective", "industrial"],
+      "relatedProducts": ["10", "2", "3"]
+    },
+    {
+      "id": "10",
+      "slug": "private-labelling",
+      "name": "Private Labelling",
+      "description": "Custom branded products for businesses",
+      "longDescription": "Create your own brand with our private labelling services. We offer custom packaging with your logo, colors, and design. Perfect for hotels, restaurants, offices, and retail businesses looking to create brand consistency across their hygiene products.",
+      "price": 999,
+      "originalPrice": 1199,
+      "category": "commercial",
+      "features": [
+        "Custom logo and design",
+        "Brand-specific packaging",
+        "Minimum order quantity: 1000 units",
+        "Flexible design options",
+        "Professional brand presentation"
+      ],
+      "specifications": {
+        "minimumOrder": "1000 units",
+        "leadTime": "4-6 weeks",
+        "designSupport": "Included",
+        "packagingOptions": "Flexible",
+        "samples": "Available on request"
+      },
+      "images": [
+        "https://www.premiertissues.com/images/facial-tissues/black-gold.png",
+        "https://www.premiertissues.com/images/facial-tissues/silver.png",
+        "https://www.premiertissues.com/images/facial-tissues/blue.png",
+        "https://www.premiertissues.com/images/facial-tissues/green.png",
+        "https://www.premiertissues.com/images/facial-tissues/red.png"
+      ],
+      "thumbnail": "https://www.premiertissues.com/images/facial-tissues/harvested.svg",
+      "stock": 999,
+      "rating": 5.0,
+      "reviews": 18,
+      "tags": ["custom", "branding", "commercial", "private-label"],
+      "relatedProducts": ["9", "4", "8"]
+    }
+  ]
+}
