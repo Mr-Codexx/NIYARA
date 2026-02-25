@@ -2,27 +2,29 @@ import Image from 'next/image'
 
 export default function Hero() {
   return (
-    <section className="relative w-full h-[70vh] overflow-hidden">
+    <section className="relative mx-auto px-8 overflow-hidden">
       
-      {/* Background Image */}
-      <Image
-        src="https://www.premiertissues.com/images/homepage/banner_1.png"
-        alt="Premier Tissue Banner"
-        fill
-        priority
-        sizes="100vw"
-        className="object-cover"
-      />
+      {/* Responsive container with aspect ratio */}
+      <div className="relative w-full h-[50vh] sm:h-[60vh] md:h-[70vh] lg:h-[75vh] xl:h-[80vh]">
+        
+        {/* Background Image - Using Next.js Image with proper responsive sizes */}
+        <Image
+          src="https://www.premiertissues.com/images/homepage/banner_1.png"
+          alt="Premier Tissue Banner"
+          fill
+          priority
+          sizes="(max-width: 640px) 100vw, (max-width: 768px) 100vw, (max-width: 1024px) 100vw, 100vw"
+          className="object-cover"
+          quality={85}
+        />
 
-      {/* Overlay (optional, like original site text layer) */}
-      <div className="absolute inset-0 bg-black/10" />
+        {/* Overlay with gradient for better text readability */}
+        {/* <div className="absolute inset-0 bg-gradient-to-r from-black/30 to-black/10" /> */}
 
-      {/* Content */}
-      <div className="relative z-10 container mx-auto h-full flex items-center px-6">
-        <h1 className="text-white text-4xl md:text-6xl font-semibold">
-          Pioneers of Hygiene <br />
-          <span className="text-blue-200">& Lifestyle Products</span>
-        </h1>
+        {/* Content - Responsive positioning and typography */}
+        <div className="relative z-10 h-full flex items-center">
+          
+        </div>
       </div>
     </section>
   )

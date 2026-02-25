@@ -16,19 +16,19 @@ export default function ProductsSection() {
       name: 'Kitchen Towel',
       image: 'https://www.premiertissues.com/images/homepage/kitchen_towel.png',
       bg: 'bg-green-500',
-      height: 'h-[540px]',
+      height: 'h-[400px]',
     },
     {
       name: 'Napkins',
       image: 'https://www.premiertissues.com/images/homepage/napkins.png',
       bg: 'bg-green-500',
-      height: 'h-[540px]',
+      height: 'h-[400px]',
     },
     {
       name: 'Toilet Roll',
       image: 'https://www.premiertissues.com/images/homepage/toilet_roll1.png',
       bg: 'bg-red-500',
-      height: 'h-[540px]',
+      height: 'h-[400px]',
     },
   ]
 
@@ -45,7 +45,7 @@ export default function ProductsSection() {
             Our product range
           </h2>
           <Link
-            href="https://www.premiertissues.com/images/products"
+            href="/products"
             className="text-sm text-gray-600 hover:text-gray-900 flex items-center gap-1"
           >
             See all <span>›</span>
@@ -82,7 +82,7 @@ export default function ProductsSection() {
                   src={prod.image}
                   alt={prod.name}
                   fill
-                  className="object-contain drop-shadow-xl"
+                  className="object drop-shadow-xl w-full"
                 />
               </div>
             </Link>
